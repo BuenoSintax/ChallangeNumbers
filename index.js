@@ -66,7 +66,8 @@ server.get(`/total`, async (req, res) => {
         if (pagInicial === pagFinal) {
             //verifica via console a ordenação dos numeros
             console.log(numeros);
-            //retorna em html o json da ordenacao
+            //retorna em html o json da ordenacao. 
+            //tem-se o retorno do json, sendo possível ser consumida também
             return res.json(`Esses são os números ordenados da pagina:${vlrInicial} até a página:${pagFinal}         `+ numeros);
 
 
