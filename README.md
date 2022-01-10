@@ -9,7 +9,7 @@ Este desafio foi realizado por mim apenas para participar do processo da Cross C
 
 Startar aplicação: 
 #cd MyProject 
-#nodemoon index.js
+#nodemon index.js
 
 
 Dependencias instaladas: 
