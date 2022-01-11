@@ -5,7 +5,7 @@ O projeto está na branch master.
 
 
 
-Este desafio foi realizado por mim apenas para participar do processo da Cross Commerce, realizei em 3/4 dias lendo todas as documentações pertinentes do Node.js, Express, Axios e Nodemon. Quis realizar em Node.Js por achar um linguagem simples mas poderosa e por não ser verbosa como Java com qual estou acostumado também. Controlei os erros via parâmetros a serem inseridos, para evitar Internal Server Error (500) de consumação de 10.000 pages da API. Acredito que existam jeitos do projeto ser mais eficiente inserindo maiores condições e outros laços, porém realizei da melhor forma que vi nesses dias, ao menos sem copiar de qualquer de qualquer pessoa.
+Este desafio foi realizado por mim apenas para participar do processo da Cross Commerce, realizei em 3/4 dias lendo todas as documentações pertinentes do Node.js, Express, Axios e Nodemon. Quis realizar em Node.Js por achar uma linguagem simples mas poderosa e por não ser verbosa como Java com qual estou acostumado também. Controlei os erros via parâmetros a serem inseridos, para evitar Internal Server Error (500) de consumação de 10.000 pages da API. Acredito que existam jeitos do projeto ser mais eficiente inserindo maiores condições e outros laços e utilizando routers, porém realizei da melhor forma que vi nesses dias, ao menos sem copiar de qualquer de qualquer pessoa.
 
 Startar aplicação: 
 #cd MyProject 
